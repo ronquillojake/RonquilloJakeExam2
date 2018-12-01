@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">PRACTICAL EXAM NO. 2</string>
+    <string name="first">First Name: </string>
+    <string name="last">Last Name: </string>
+    <string name="exam1">Exam1: </string>
+    <string name="exam2">Exam2: </string>
+    <string name="display">Display Average </string>
+    <string name="average">Your average is </string>
+    <string name="result">Result</string>
+    <string name="aveview" />
+    <string name="input">Text</string>
+    <string name="grade">Grade</string>
+</resources>

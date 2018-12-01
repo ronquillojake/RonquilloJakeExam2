@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023368060098",
+    "firebase_url": "https://ronquillojakeexam2-21053.firebaseio.com",
+    "project_id": "ronquillojakeexam2-21053",
+    "storage_bucket": "ronquillojakeexam2-21053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023368060098:android:5bd8fa6d63545955",
+        "android_client_info": {
+          "package_name": "com.example.ronquillo.ronquillojakeexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023368060098-n47kcogu844qatsmg9ib8ifchi7vd2di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ronquillo.ronquillojakeexam2",
+            "certificate_hash": "62dcb8d8fbfece7b8619af19ea120310c74948a5"
+          }
+        },
+        {
+          "client_id": "1023368060098-jlpaerbob8a5rkba4fl3apselinb6t9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGNvgNvgT_OmZEPaPZf6KtUCQVMrihh6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023368060098-jlpaerbob8a5rkba4fl3apselinb6t9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
